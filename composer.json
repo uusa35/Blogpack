@@ -10,7 +10,7 @@
     ],
     "autoload" : {
         "psr-4" : {
-            "Usama\\Blogpack" : "src/"
+            "Usama\\Blogpack\\" : "src/"
         }
     },
     "minimum-stability": "dev",
