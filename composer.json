@@ -1,0 +1,20 @@
+{
+    "name": "usama/blogpack",
+    "description": "a simple blog for frontend and backend",
+    "license": "MTI",
+    "authors": [
+        {
+            "name": "usama ahmed",
+            "email": "uusa35@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "Usama\\Blogpack" : "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support" : "~5"
+    }
+}
